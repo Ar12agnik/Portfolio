@@ -112,7 +112,7 @@ body {
         opacity: 1;
     }
     100% { 
-        right: 100%; 
+        left: 100%; 
         opacity: 0;
     }
 }
